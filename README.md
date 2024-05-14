@@ -20,7 +20,7 @@ Se enfonca en replicar la apariencia visual de Pinterest, ofreciendo una experie
 
 ### Vista Previa del Proyecto
 
-----Pendiente----
+![Demo](imagenes/Pinterest_screen.png)
 
 
 ### Contacto
