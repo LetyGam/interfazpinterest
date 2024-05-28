@@ -24,7 +24,7 @@ Se enfonca en replicar la apariencia visual de Pinterest, ofreciendo una experie
 
 
 ### Contacto
-Si te gustaría invitarme a colaborar en un proyecto, contáctame, escribeme por [LinkedIn](www.linkedin.com/in/leticia-gamboa-mendoza-69a9b9227/). 
+Si te gustaría invitarme a colaborar en un proyecto, contáctame, escribeme por [LinkedIn](https://www.linkedin.com/in/leticiagamboam/). 
 
 O puedes contactarme a mi correo electronico: letygam88@gmail.com
   
