@@ -13,7 +13,7 @@ Se enfonca en replicar la apariencia visual de Pinterest, ofreciendo una experie
 
 *  **Iconografía y estilos modernos:** Uso de la biblioteca de íconos de Material Design y estilos CSS modernos para una apariencia cool.
 
-### Teconologías utilizadas
+### Tecnologías utilizadas
 
 + **HTML5:** Para la esctructura básica del sitio.
 + **CSS3:** Para el diseño y el estilo, influyendo _flexbox_ para un diseñor responsivo y efectos de _hover_.
